@@ -1,1 +1,1 @@
-# Search Data From Table
+# Search Records Using AJAX
